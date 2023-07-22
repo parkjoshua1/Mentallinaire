@@ -11,15 +11,10 @@ const recommendedContent = {
     { title: "What is Illness Anxiety Disorder?", url: "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS93NlBhdVFZSQ/episode/aHR0cHM6Ly93d3cucG9kdHJhYy5jb20vcHRzL3JlZGlyZWN0Lm1wMy9tZWRpYS5ibHVicnJ5LmNvbS9zYXZ2eS90cmFmZmljLm9tbnkuZm0vZC9jbGlwcy9hYWVhNGU2OS1hZjUxLTQ5NWUtYWZjOS1hOTc2MDE0NjkyMmIvOWQ4OTYxOTEtYzc5Ni00Mjg3LWI5YzItYWIxYjAxNWFkMDg3LzE2MjI2MGVlLWVmYjctNDhkNS05NDI4LWFkOTcwMTY5YjI5My9hdWRpby5tcDM?sa=X&ved=0CAUQkfYCahcKEwiIx_nFsZ2AAxUAAAAAHQAAAAAQAQ" },
     { title: "260: Loss of Appetite with Anxiety & Battling with a Negative Body Image", url: "https://podcasts.google.com/feed/aHR0cHM6Ly9oYXJkY29yZXNlbGZoZWxwLmxpYnN5bi5jb20vcnNz/episode/YTA1YmMxZWItMTZjYi00NzY0LThmN2MtMzdjZDViZTk1MjM2?sa=X&ved=0CAUQkfYCahgKEwjIw8nK-IyAAxUAAAAAHQAAAAAQuxQ" },
     { title: "02: How Is Anxiety Affecting The Main Aspects Of Your Life?", url: "https://podcasts.google.com/feed/aHR0cDovL2FueGlldHlndXlwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/aHR0cDovL2FueGlldHlleGl0LmNvbS8_cD05MDEy?sa=X&ved=0CAUQkfYCahgKEwjIw8nK-IyAAxUAAAAAHQAAAAAQ0zE" },
-    { title: "How our voices reveal anxiety", url: "https://www.ted.com/talks/jackie_gartner_schmidt_how_our_voices_reveal_anxiety" },
-    { title: "How to stop feeling anxious about anxiety", url: "https://www.youtube.com/watch?v=ZidGozDhOjg" },
-    { title: "What is Anxiety?", url: "https://www.youtube.com/watch?v=BVJkf8IuRjE" },
+ 
   ],
   pdd: [
     // PDD content here
-    { title: "I had a black dog, his name was depression", url: "https://www.youtube.com/watch?v=XiCrniLQGYc"},
-    { title: "Mindfulness with Jon Kabat-Zinn", url: "https://www.youtube.com/watch?v=3nwwKbM_vJc" },
-    { title: "Behavioral Activation: Treatment of Adolescent Depression", url: "https://www.youtube.com/watch?v=1R6-gLZZhYc" },
     { title: "Introducing Depresh Mode with John Moe: Joel Kim Booster Is In A Pit", url: "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5wdWJsaWNyYWRpby5vcmcvcHVibGljX2ZlZWRzL3RoZS1oaWxhcmlvdXMtd29ybGQtb2YtZGVwcmVzc2lvbi9pdHVuZXMvcnNz/episode/L2FtZXJpY2FucHVibGljbWVkaWEvcG9kY2FzdHMvdGh3b2QvMjAyMS8wOC9od29kXzIwMjEwODA0XzEyOC5tcDM?sa=X&ved=0CAgQuIEEahgKEwjIw8nK-IyAAxUAAAAAHQAAAAAQ8Dk" },
     { title: "Interviews Vincent Wales | Author & Co-Host of The Psych Central Show", url: "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2FsbGV2aW4xOC9mZWVkLnhtbA/episode/YWxsZXZpbjE4LnBvZGJlYW4uY29tL2FsLWludGVydmlld3MtdmluY2VudC13YWxlcy1hdXRob3ItY28taG9zdC1vZi10aGUtcHN5Y2gtY2VudHJhbC1zaG93LTRjNDlhYzg5ZjA2YzNiMGI4MTUwNjNmMTI2ZTNmOTVl?sa=X&ved=0CAgQuIEEahgKEwjIw8nK-IyAAxUAAAAAHQAAAAAQpDo" },
     { title: "Ep 240. You're Not Broken with Dr. Sarah Woodhouse", url: "https://podcasts.google.com/feed/aHR0cHM6Ly9ub3Rhbm90aGVyYW54aWV0eXNob3cubGlic3luLmNvbS9yc3M/episode/YzExZDlhMjktZjQzNy00MDVjLTk3NmMtOTJhMDhlNjlhOThm?sa=X&ved=0CAUQkfYCahgKEwiIx_nFsZ2AAxUAAAAAHQAAAAAQkAw" },
