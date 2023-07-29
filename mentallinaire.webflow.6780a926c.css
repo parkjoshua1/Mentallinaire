@@ -2775,4 +2775,12 @@ ul li {
   /* Add any other styles you want */
 }
 
+.recommended-container {
+  list-style: none;
+  padding: 0;
+}
 
+#recommended-list {
+  list-style: none;
+  padding: 0;
+}
