@@ -25,8 +25,7 @@
 <body>
     <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease"
         role="banner" class="navigation-bar w-nav">
-        <div class="w-container"><a href="mainPage.html" aria-current="page"
-                class="brand-link w-nav-brand w--current">
+        <div class="w-container"><a href="mainPage.html" aria-current="page" class="brand-link w-nav-brand w--current">
                 <h1 class="brand-text">Mentallinaire</h1>
             </a>
             <nav role="navigation" class="navigation-menu w-nav-menu"><a href="mainPage.html" aria-current="page"
@@ -43,7 +42,24 @@
             <h1 data-ix="fade-in-bottom-page-loads" class="hero-heading">empower. thrive. unite</h1>
             <div data-ix="fade-in-bottom-page-loads" class="hero-subheading">A mental health supplement for teenagers
             </div>
-            <div data-ix="fade-in-bottom-page-loads"><a href="login.html" class="button">sign up</a></div>
+
+            <div class="button-container">
+                <div data-ix="fade-in-bottom-page-loads">
+                    <a href="login.html" class="button">sign up</a>
+                </div>
+
+                <div data-ix="fade-in-bottom-page-loads">
+                    <a href="https://www.jotform.com/232104221301028" class="button">Subscribe now!</a>
+                </div>
+            </div>
+
+            <style>
+                .button-container {
+                    display: flex;
+                    justify-content: center;
+                }
+            </style>
+            
         </div>
     </div>
     <div class="section wf-section">
